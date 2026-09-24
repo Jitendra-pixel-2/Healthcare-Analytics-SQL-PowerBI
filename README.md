@@ -21,8 +21,8 @@ This end-to-end data analytics project focuses on evaluating hospital performanc
 
 ## 📂 Files in this Repository
 * `Healthcare_Queries.sql`: Contains the complete SQL code (ETL, Readmissions, TAT logic, and Aggregations).
-* `Healthcare_Dashboard.pbix`: The Power BI dashboard file.
-* `Hospital_Data_Final.txt`: The raw synthetic dataset used for this project.
+* `Hospital_Analytics.pbix`: The Power BI dashboard file.
+* `Final_SQL_Ready_Data.txt`: The raw synthetic dataset used for this project.
 
 ## 🚀 How to Use
 1. Import the `.txt` file into your MySQL local server using `LOAD DATA INFILE`.
